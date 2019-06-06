@@ -1,8 +1,8 @@
 {
   "products": [
-    { "id": 1, "name": "Post 1" },
-    { "id": 2, "name": "Post 2" },
-    { "id": 3, "name": "Post 3" }
+    { "id": 1, "name": "Post 1" ,"category": "Dragees", "description": "", "price" : "22 000 fr"},
+    { "id": 2, "name": "Post 2" ,"category": "Dragees", "description": "", "price" : "22 000 fr"},
+    { "id": 3, "name": "Post 3" ,"category": "Dragees", "description": "","price" : "22 000 fr"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
