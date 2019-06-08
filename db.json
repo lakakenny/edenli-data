@@ -4,9 +4,13 @@
     { "id": 2, "name": "Post 2" ,"category": "Dragees", "description": "", "price" : "22 000 fr"},
     { "id": 3, "name": "Post 3" ,"category": "Dragees", "description": "","price" : "22 000 fr"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "banners": [
+    { "id": 1, "uid": "xxx-dddx-cccc", "name": "Accueil" ,
+     "description": "Banner de défilement", "status" : "ACTIVE", "type" : "CAROUSEL",
+    "bannerItems" : []},
+    { "id": 2, "uid": "xxee-fffh-zzzzs", "name": "Test" ,
+     "description": "Banner pour test" , "status" : "DESIGN", , "type" : "CAROUSEL",
+     "bannerItems" : []}
   ],
   "profile": {
     "name": "typicode"
