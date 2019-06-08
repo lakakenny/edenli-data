@@ -9,7 +9,7 @@
      "description": "Banner de défilement", "status" : "ACTIVE", "type" : "CAROUSEL",
     "bannerItems" : []},
     { "id": 2, "uid": "xxee-fffh-zzzzs", "name": "Test" ,
-     "description": "Banner pour test" , "status" : "DESIGN", , "type" : "CAROUSEL",
+     "description": "Banner pour test" , "status" : "DESIGN", "type" : "CAROUSEL",
      "bannerItems" : []}
   ],
   "profile": {
