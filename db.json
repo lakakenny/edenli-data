@@ -5,7 +5,34 @@
     { "id": 3, "name": "Post 3" ,"category": "Dragees", "description": "","price" : "22 000 fr"}
   ],
   "banners": [
-    { "id": 1, "uid": "xxx-dddx-cccc", "name": "Accueil", "description": "Banner de défilement", "status" : "ACTIVE", "type" : "CAROUSEL", "bannerItems" : []},
+    { "id": 1, "uid": "xxx-dddx-cccc", "name": "Accueil", "description": "Banner de défilement", "status" : "ACTIVE", "type" : "CAROUSEL", 
+     "bannerItems" : [
+       {
+         "id": 1
+         "name": "Dragee",
+         "description":"Promotion de dragees",
+         "status": "ACTIVE",
+         "activate": true,
+         "imageurl": "http://edenlia-shop.com/img/p/1/6/7/167-home_default.jpg"
+       },
+         {
+           "id": 2
+         "name": "Dragee",
+         "description":"Promotion de dragees",
+         "status": "ACTIVE",
+         "activate": true,
+         "imageurl": "http://edenlia-shop.com/img/p/7/0/70-large_default.jpg"
+       },
+         {
+         "id": 3
+         "name": "Dragee",
+         "description":"Promotion de dragees",
+         "status": "ACTIVE",
+         "activate": true,
+         "imageurl": "http://edenlia-shop.com/img/p/7/9/79-home_default.jpg"
+       }
+     ]
+    },
     { "id": 2, "uid": "xxee-fffh-zzzzs", "name": "Test", "description": "Banner pour test" , "status" : "DESIGN", "type" : "CAROUSEL", "bannerItems" : []}
   ],
   "profile": {
