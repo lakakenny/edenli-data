@@ -8,7 +8,7 @@
     { "id": 1, "uid": "xxx-dddx-cccc", "name": "Accueil", "description": "Banner de défilement", "status" : "ACTIVE", "type" : "CAROUSEL", 
      "bannerItems" : [
        {
-         "id": 1
+         "id": 1,
          "name": "Dragee",
          "description":"Promotion de dragees",
          "status": "ACTIVE",
@@ -16,7 +16,7 @@
          "imageurl": "http://edenlia-shop.com/img/p/1/6/7/167-home_default.jpg"
        },
          {
-           "id": 2
+           "id": 2,
          "name": "Dragee",
          "description":"Promotion de dragees",
          "status": "ACTIVE",
@@ -24,7 +24,7 @@
          "imageurl": "http://edenlia-shop.com/img/p/7/0/70-large_default.jpg"
        },
          {
-         "id": 3
+         "id": 3,
          "name": "Dragee",
          "description":"Promotion de dragees",
          "status": "ACTIVE",
